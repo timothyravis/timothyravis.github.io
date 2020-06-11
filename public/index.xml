@@ -6,9 +6,46 @@
     <description>Recent content on Timothy Ravis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 13:17:22 -0400</lastBuildDate>
     
 	<atom:link href="https://timothyravis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects_explainer</title>
+      <link>https://timothyravis.github.io/projects/projects_explainer/</link>
+      <pubDate>Wed, 10 Jun 2020 13:17:22 -0400</pubDate>
+      
+      <guid>https://timothyravis.github.io/projects/projects_explainer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design_explainer</title>
+      <link>https://timothyravis.github.io/design/design_explainer/</link>
+      <pubDate>Wed, 10 Jun 2020 13:17:02 -0400</pubDate>
+      
+      <guid>https://timothyravis.github.io/design/design_explainer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://timothyravis.github.io/about/</link>
+      <pubDate>Wed, 10 Jun 2020 13:15:50 -0400</pubDate>
+      
+      <guid>https://timothyravis.github.io/about/</guid>
+      <description>Tim is an urban planner and geographer with an interest in technology and international development, particularly in Indonesia. He&amp;rsquo;s also data- and compsci-curious, both as a practitioner and a critical observer. He&amp;rsquo;s a recent graduate from the Harvard Graduate School of Design, and will be a doctoral student in development sociology at Cornell University beginning fall 2021 (Curriculum Vitae). You can find him on LinkedIn, Academia.edu, Github, Twitter, and Instagram.</description>
+    </item>
+    
+    <item>
+      <title>My_first_post</title>
+      <link>https://timothyravis.github.io/posts/first-post/</link>
+      <pubDate>Wed, 10 Jun 2020 13:00:40 -0400</pubDate>
+      
+      <guid>https://timothyravis.github.io/posts/first-post/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
