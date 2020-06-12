@@ -34,7 +34,7 @@ pygmentsCodefences       = true
     text = "''design''"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "about"
     text = "who is tim?"
 
 [imaging]
