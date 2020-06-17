@@ -4,6 +4,14 @@ date: 2020-06-10T13:15:50-04:00
 draft: true
 ---
 
-Tim is an urban planner and geographer with an interest in technology, representation, and distance in international development, particularly in Indonesia. He's also data- and compsci-curious, both as a practitioner and a critical observer. He's a recent graduate from the Harvard Graduate School of Design, and will begin doctoral studies in development sociology at Cornell University in fall 2021 ([Curriculum Vitae](/Ravis_CV.pdf)). You can find him on [LinkedIn](https://www.linkedin.com/in/timothy-ravis-2486309/), [Academia.edu](https://harvard.academia.edu/TimRavis), [Github](https://github.com/soetimno), [Twitter](https://twitter.com/soetimno), and [Instagram](https://www.instagram.com/rimtavis/).
+Tim is an urban planner and geographer with an interest in technology, representation, and value, particularly in the context of international development programming in Indonesia. He's also data- and compsci-curious, both as a practitioner and a critic. In 2020, he graduated from the Harvard Graduate School of Design, and will begin doctoral studies in development sociology at Cornell University in 2021 ([Curriculum Vitae][1]). You can find him on [LinkedIn][2], [Academia.edu][3], [Github][4], [Twitter][5], and [Instagram][6].
 
-[Bahasa Indonesia](/content/tentang.md) 
+[Bahasa Indonesia][7] 
+
+[1]:	/Ravis_CV.pdf
+[2]:	https://www.linkedin.com/in/timothy-ravis-2486309/
+[3]:	https://harvard.academia.edu/TimRavis
+[4]:	https://github.com/soetimno
+[5]:	https://twitter.com/soetimno
+[6]:	https://www.instagram.com/rimtavis/
+[7]:	/tentang
