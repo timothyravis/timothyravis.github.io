@@ -4,7 +4,7 @@ date: 2020-06-10T13:15:50-04:00
 draft: true
 ---
 
-Tim is an urban planner and geographer with an interest in technology, representation, and value, particularly in the context of international development programming in Indonesia. He's also data- and compsci-curious, both as a practitioner and a critic. He will study development sociology at Cornell University beginning in 2021 ([Curriculum Vitae][1]). You can find him on [LinkedIn][2], [Academia.edu][3], [Github][4], [Twitter][5], and [Instagram][6].
+Tim is an urban planner and geographer with an interest in technology, representation, and value, particularly in the context of international development programming in Indonesia. He's also data- and compsci-curious, both as a practitioner and a critic. He will begin a PhD in development sociology at Cornell University beginning in 2021 ([Curriculum Vitae][1]). You can find him on [LinkedIn][2], [Academia.edu][3], [Github][4], [Twitter][5], and [Instagram][6].
 
 [Bahasa Indonesia][7] 
 
