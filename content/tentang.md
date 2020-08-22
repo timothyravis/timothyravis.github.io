@@ -1,6 +1,6 @@
 ---
 title: "Tentang"
-date: 2020-06-11
+date: 2020-06-11T13:15:50-04:00
 draft: false
 ---
 
