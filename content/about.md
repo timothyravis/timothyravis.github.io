@@ -10,12 +10,12 @@ He's also a data- and compsci-curious, and is excited to get beyond writing dink
 
 This fall he is beginning a PhD in development sociology at Cornell ([Curriculum Vitae][1]). You can find him on [LinkedIn][2], [Academia.edu][3], [Github][4], [Twitter][5], and [Instagram][6].
 
-[Bahasa Indonesia][7] 
+[] (Bahasa Indonesia][7])
 
 [1]:	/Ravis_CV.pdf
 [2]:	https://www.linkedin.com/in/timothy-ravis-2486309/
 [3]:	https://cornell.academia.edu/TimRavis
-[4]:	https://github.com/soetimno
+[4]:	https://github.com/timothyravis
 [5]:	https://twitter.com/soetimno
-[6]:	https://www.instagram.com/rimtavis/
+[6]:	https://www.instagram.com/timravis/
 [7]:	/tentang
