@@ -28,6 +28,19 @@ defaultContentLanguageInSubdir = false
     [languages.en.params]
       description = "Urban planner, geographer, and PhD candidate researching geospatial technologies and energy resources in Indonesia."
 
+    [languages.en.params.profileMode]
+      enabled = true
+      title = "Timothy Ravis"
+      subtitle = "Urban planner · Geographer · PhD Candidate, Cornell University"
+
+      [[languages.en.params.profileMode.buttons]]
+        name = "Posts"
+        url = "/posts/"
+
+      [[languages.en.params.profileMode.buttons]]
+        name = "About"
+        url = "/about/"
+
     [[languages.en.menus.main]]
       name = "Posts"
       url = "/posts/"
@@ -56,6 +69,19 @@ defaultContentLanguageInSubdir = false
     [languages.id.params]
       description = "Perencana kota dan geograf yang meneliti teknologi geospasial dan sumber daya energi di Indonesia."
 
+    [languages.id.params.profileMode]
+      enabled = true
+      title = "Timothy Ravis"
+      subtitle = "Perencana kota · Geograf · Kandidat Doktor, Cornell University"
+
+      [[languages.id.params.profileMode.buttons]]
+        name = "Tulisan"
+        url = "/id/posts/"
+
+      [[languages.id.params.profileMode.buttons]]
+        name = "Tentang"
+        url = "/id/about/"
+
     [[languages.id.menus.main]]
       name = "Tulisan"
       url = "/id/posts/"
@@ -81,22 +107,6 @@ defaultContentLanguageInSubdir = false
 [params]
   homeInfoParams = { Title = "γένοι', οἷος ἐσσὶ μαθών.", Content = "Urban planner, geographer, and PhD candidate at Cornell. My research concerns how geospatial technologies and evolving demands for underground energy resources have shaped the Indonesian state." }
   favicon = "/wayang.ico"
-
-  # PaperMod profile mode is a clean way to display a personal homepage
-  [params.profileMode]
-    enabled = true
-    title = "Timothy Ravis"
-    subtitle = "Urban planner · Geographer · PhD Candidate, Cornell University"
-    imageUrl = ""
-    imageTitle = ""
-
-    [[params.profileMode.buttons]]
-      name = "Posts"
-      url = "/posts/"
-
-    [[params.profileMode.buttons]]
-      name = "About"
-      url = "/about/"
 
   [[params.socialIcons]]
     name = "linkedin"
