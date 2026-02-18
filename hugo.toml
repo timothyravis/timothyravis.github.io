@@ -135,3 +135,6 @@ defaultContentLanguageInSubdir = false
 
   [params.label]
     text = "Timothy Ravis"
+
+  [params.footer]
+    text = "γένοι', οἷος ἐσσὶ μαθών."
