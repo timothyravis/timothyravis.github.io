@@ -1,0 +1,17 @@
+# Hugo build outputs
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Claude Code internal directory
+.claude/
+
+# macOS
+.DS_Store
+
+# Ulysses editor files
+*.Ulysses-Group.plist
+.Ulysses-Group.plist
+
+# Old config backup
+config.toml.bak

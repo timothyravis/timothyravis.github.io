@@ -1,0 +1,127 @@
+baseURL = "https://timothyravis.github.io"
+theme = "PaperMod"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[author]
+  name = "Timothy Ravis"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+
+[imaging]
+  quality = 75
+
+# ─── Languages ────────────────────────────────────────────────────────────────
+
+[languages]
+
+  [languages.en]
+    languageCode = "en-us"
+    title = "Timothy Ravis"
+    weight = 1
+
+    [languages.en.params]
+      description = "Urban planner, geographer, and PhD candidate researching geospatial technologies and energy resources in Indonesia."
+
+    [[languages.en.menus.main]]
+      name = "Posts"
+      url = "/posts/"
+      weight = 1
+
+    [[languages.en.menus.main]]
+      name = "Projects"
+      url = "/projects/"
+      weight = 2
+
+    [[languages.en.menus.main]]
+      name = "Design"
+      url = "/design/"
+      weight = 3
+
+    [[languages.en.menus.main]]
+      name = "About"
+      url = "/about/"
+      weight = 4
+
+  [languages.id]
+    languageCode = "id"
+    title = "Timothy Ravis"
+    weight = 2
+
+    [languages.id.params]
+      description = "Perencana kota dan geograf yang meneliti teknologi geospasial dan sumber daya energi di Indonesia."
+
+    [[languages.id.menus.main]]
+      name = "Tulisan"
+      url = "/id/posts/"
+      weight = 1
+
+    [[languages.id.menus.main]]
+      name = "Proyek"
+      url = "/id/projects/"
+      weight = 2
+
+    [[languages.id.menus.main]]
+      name = "Desain"
+      url = "/id/design/"
+      weight = 3
+
+    [[languages.id.menus.main]]
+      name = "Tentang"
+      url = "/id/about/"
+      weight = 4
+
+# ─── Site Parameters ──────────────────────────────────────────────────────────
+
+[params]
+  homeInfoParams = { Title = "γένοι', οἷος ἐσσὶ μαθών.", Content = "Urban planner, geographer, and PhD candidate at Cornell. My research concerns how geospatial technologies and evolving demands for underground energy resources have shaped the Indonesian state." }
+  favicon = "/wayang.ico"
+
+  # PaperMod profile mode is a clean way to display a personal homepage
+  [params.profileMode]
+    enabled = true
+    title = "Timothy Ravis"
+    subtitle = "Urban planner · Geographer · PhD Candidate, Cornell University"
+    imageUrl = ""
+    imageTitle = ""
+
+    [[params.profileMode.buttons]]
+      name = "Posts"
+      url = "/posts/"
+
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about/"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/timothy-ravis-2486309/"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/timothyravis"
+
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/dimravis"
+
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/dimravis/"
+
+  [[params.socialIcons]]
+    name = "academia"
+    url = "https://cornell.academia.edu/TimothyRavis"
+
+  [params.assets]
+    favicon = "/wayang.ico"
+    favicon16x16 = "/wayang.ico"
+    favicon32x32 = "/wayang.ico"
+
+  [params.label]
+    text = "Timothy Ravis"
