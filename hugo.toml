@@ -12,6 +12,8 @@ defaultContentLanguageInSubdir = false
     codeFences = true
     guessSyntax = true
     lineNos = false
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [imaging]
   quality = 75
