@@ -4,7 +4,7 @@ date: 2020-06-11T13:15:50-04:00
 draft: false
 ---
 
-<img id="profile-photo" src="" alt="Timothy Ravis" style="float: right; margin: 0 0 1.5em 1.5em; max-width: 260px; border-radius: 4px;">
+<img id="profile-photo" src="" alt="Timothy Ravis" style="float: right; margin: 0 0 1.5em 1.5em; max-width: 45%; border-radius: 4px;">
 <script>
 const photos = [
   "/images/Tim%20and%20bird.JPG",
