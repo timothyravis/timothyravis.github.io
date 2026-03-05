@@ -33,4 +33,3 @@ You can find me at [Cornell][8], or on [LinkedIn][2], [Academia.edu][3], [Github
 [6]:	https://www.instagram.com/dimravis/
 [7]:	https://yalebooks.yale.edu/book/9780300078152/seeing-state
 [8]: https://cals.cornell.edu/global-development/education-training/graduate/development-sociology-phd-current-cohort/timothy-ravis
-

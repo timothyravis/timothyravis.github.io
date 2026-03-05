@@ -36,10 +36,6 @@ defaultContentLanguageInSubdir = false
       subtitle = "Urban planner · Geographer · PhD Candidate, Cornell University"
 
       [[languages.en.params.profileMode.buttons]]
-        name = "Posts"
-        url = "/posts/"
-
-      [[languages.en.params.profileMode.buttons]]
         name = "About"
         url = "/about/"
 
@@ -75,10 +71,6 @@ defaultContentLanguageInSubdir = false
       enabled = true
       title = "Timothy Ravis"
       subtitle = "Perencana kota · Geograf · Kandidat Doktor, Cornell University"
-
-      [[languages.id.params.profileMode.buttons]]
-        name = "Tulisan"
-        url = "/id/posts/"
 
       [[languages.id.params.profileMode.buttons]]
         name = "Tentang"
