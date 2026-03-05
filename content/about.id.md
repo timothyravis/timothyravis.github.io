@@ -23,6 +23,6 @@ Ini adalah paragraf dalamnya saya menjelaskan latar belakang akademik saya untuk
 
 Minat utamanya saya adalah ilmu sosial kualitatif, termasuk metode etnografi, tetapi saya juga tertarik pada data dan ilmu komputer. Saya antusias untuk melampaui sekadar mengutak-atik QGIS atau menulis skrip R yang sederhana, dan mulai menjelajahi hal-hal seperti ... membuat situs web sendiri. Serta memikirkan bagaimana kapasitas komputasi mengubah ekonomi, masyarakat, dan politik kita.
 
-Makanan Indonesia favoritnya adalah nasi pecel, khususnya yang dari Ponorogo.
+Makanan Indonesia favoritnya saya adalah nasi pecel, khususnya yang dari Ponorogo.
 
-Ia punya [LinkedIn](https://www.linkedin.com/in/timothy-ravis-2486309/), [Academia.edu](https://cornell.academia.edu/TimothyRavis), [Github](https://github.com/timothyravis), [Twitter](https://twitter.com/dimravis), dan [Instagram](https://www.instagram.com/dimravis/).
+Saya punya [LinkedIn](https://www.linkedin.com/in/timothy-ravis-2486309/), [Academia.edu](https://cornell.academia.edu/TimothyRavis), [Github](https://github.com/timothyravis), [Twitter](https://twitter.com/dimravis), dan [Instagram](https://www.instagram.com/dimravis/).
